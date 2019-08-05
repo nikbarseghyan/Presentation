@@ -14,7 +14,7 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 # Flow A Static Type Checker for JavaScript
 ### About
 
-[![Latest Stable Version](https://github.com/facebook/flow/releases/tag/v0.104.0)](https://packagist.org/packages/cycle/orm)
+[![Latest Stable Version](0.104.0)](https://packagist.org/packages/cycle/orm)
 [![Build Status](https://travis-ci.org/cycle/orm.svg?branch=master)](https://travis-ci.org/cycle/orm)
 
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*ulwmJZfctsdMiwO8HRFDKQ.png)
