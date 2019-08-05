@@ -7,9 +7,11 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 
 ![alt test](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/114348022/original/b3914eddb4c6bdf9d04a8b9643bc31430a5f24e9/be-your-back-office-for-elk-stack-data-pipeline.png)
 
+```
 - Elasticsearch is already setup and working(on port 9200).
 - Kibana is already setup and working(on port 5601).
 
+```
 
 # Flow A Static Type Checker for JavaScript
 ### About
