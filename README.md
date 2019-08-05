@@ -9,3 +9,12 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 
 - Elasticsearch is already setup and working(on port 9200).
 - Kibana is already setup and working(on port 5601).
+
+
+# Flow A Static Type Checker for JavaScript
+### About
+
+[![Latest Stable Version](https://poser.pugx.org/cycle/orm/version)](https://packagist.org/packages/cycle/orm)
+[![Build Status](https://travis-ci.org/cycle/orm.svg?branch=master)](https://travis-ci.org/cycle/orm)
+
+![alt text](https://cdn-images-1.medium.com/max/1200/1*ulwmJZfctsdMiwO8HRFDKQ.png)
