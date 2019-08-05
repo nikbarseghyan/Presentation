@@ -10,7 +10,6 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 ```
 - Elasticsearch is already setup and working(on port 9200).
 - Kibana is already setup and working(on port 5601).
-
 ```
 
 # Flow A Static Type Checker for JavaScript
