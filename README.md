@@ -1,4 +1,4 @@
 # Presentation
 
-# Elasticsearch  Logstash  Kibana  Filebeat
-###About
+# Elasticsearch, Logstash, Kibana, Filebeat.
+### About
