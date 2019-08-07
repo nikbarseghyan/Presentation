@@ -19,6 +19,9 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*ulwmJZfctsdMiwO8HRFDKQ.png)
 
 Flow is a static type checker for your JavaScript code. It is developed at Facebook and is often used with React. It lets you annotate the variables, functions, and React components with a special type syntax, and catch mistakes early. You can read an introduction to Flow to learn its basics.
+
+# Adding Flow to a Project
+
 If you use run:
 ```
 npm install --save-dev flow-bin
@@ -30,8 +33,16 @@ npm run flow init
 yarn run flow init
 ```
 
-Stripping Flow Syntax from the Compiled Code
+# Stripping Flow Syntax from the Compiled Code
+
 Flow extends the JavaScript language with a special syntax for type annotations. However, browsers aren’t aware of this syntax, so we need to make sure it doesn’t end up in the compiled JavaScript bundle that is sent to the browser.
 
 The exact way to do this depends on the tools you use to compile JavaScript.
+
+# Running Flow
+
+```
+yarn flow
+npm run flow
+```
 
