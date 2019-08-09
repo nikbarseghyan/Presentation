@@ -27,4 +27,8 @@ Flow is a static type checker for your JavaScript code. It is developed at Faceb
 
 # Computer Network | OSI and TCP/IP Model 
 
+![alt text](https://miro.medium.com/max/1200/0*9oXXYqWSMNY4y02_.png)
+
 # Web hacking and Security 
+
+![alt text](https://assets.oxu.az/uploads/W1siZiIsIjIwMTkvMDcvMDUvMDkvMjUvMzMvMjRhZGZiYTctYTFiOS00NWQ3LWFlNjUtNTc0MmM5Y2M4Nzk2L2hhY2tlci5qcGciXV0?sha=6aa60628a72efc3e)
