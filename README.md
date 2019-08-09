@@ -20,6 +20,8 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 
 Flow is a static type checker for your JavaScript code. It is developed at Facebook and is often used with React. It lets you annotate the variables, functions, and React components with a special type syntax, and catch mistakes early. You can read an introduction to Flow to learn its basics.
 
+# Internship
+
 # Impact event
 
 # Computer Network | OSI and TCP/IP Model 
