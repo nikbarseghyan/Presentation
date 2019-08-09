@@ -29,6 +29,18 @@ Flow is a static type checker for your JavaScript code. It is developed at Faceb
 
 ![alt text](https://miro.medium.com/max/1200/0*9oXXYqWSMNY4y02_.png)
 
+The **Open Systems Interconnection model (OSI model)** is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. The model partitions a communication system into abstraction layers. The original version of the model had seven layers.
+
+A layer serves the layer above it and is served by the layer below it. For example, a layer that provides error-free communications across a network provides the path needed by applications above it, while it calls the next lower layer to send and receive packets that constitute the contents of that path. Two instances at the same layer are visualized as connected by a horizontal connection in that layer.
+
+The model is a product of the Open Systems Interconnection project at the International Organization for Standardization (ISO).
+
+The **Internet protocol suite** is the conceptual model and set of communications protocols used in the Internet and similar computer networks. It is commonly known as TCP/IP because the foundational protocols in the suite are the **Transmission Control Protocol (TCP)** and the Internet Protocol (IP). It is occasionally known as the **Department of Defense (DoD)** model because the development of the networking method was funded by the United States Department of Defense through DARPA.
+
+The Internet protocol suite provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received. This functionality is organized into four abstraction layers, which classify all related protocols according to the scope of networking involved.From lowest to highest, the layers are the link layer, containing communication methods for data that remains within a single network segment (link); the internet layer, providing internetworking between independent networks; the transport layer, handling host-to-host communication; and the application layer, providing process-to-process data exchange for applications.
+
+The technical standards underlying the Internet protocol suite and its constituent protocols are maintained by the Internet Engineering Task Force (IETF). The Internet protocol suite predates the OSI model, a more comprehensive reference framework for general networking systems.
+
 # Web hacking and Security 
 
 ![alt text](https://assets.oxu.az/uploads/W1siZiIsIjIwMTkvMDcvMDUvMDkvMjUvMzMvMjRhZGZiYTctYTFiOS00NWQ3LWFlNjUtNTc0MmM5Y2M4Nzk2L2hhY2tlci5qcGciXV0?sha=6aa60628a72efc3e)
