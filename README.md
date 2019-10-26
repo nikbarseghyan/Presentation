@@ -1,7 +1,7 @@
 # Presentation
 
 # List
- - **Elasticsearch, Logstash, Kibana,** Filebeat.
+ - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Flow A Static Type Checker for JavaScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
