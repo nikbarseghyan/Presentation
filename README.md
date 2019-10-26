@@ -3,7 +3,7 @@
 - **Ansible.**
 - **Flow A Static Type Checker for JavaScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
-- **Internet protocol suite(part 2).**
+- **Computer Network Common Network Protocols(part 2).**
 - Internship. **Way to Computer Programming.**
 
 # Elasticsearch, Logstash, Kibana, Filebeat.
