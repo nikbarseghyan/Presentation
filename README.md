@@ -46,3 +46,16 @@ The technical standards underlying the Internet protocol suite and its constitue
 # Web hacking and Security 
 
 ![alt text](https://assets.oxu.az/uploads/W1siZiIsIjIwMTkvMDcvMDUvMDkvMjUvMzMvMjRhZGZiYTctYTFiOS00NWQ3LWFlNjUtNTc0MmM5Y2M4Nzk2L2hhY2tlci5qcGciXV0?sha=6aa60628a72efc3e)
+
+
+# Ansible.
+### About
+
+![alt-text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiTnILQ17rlAhXHlIsKHdm1AeIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ansible.com%2F&psig=AOvVaw0u9hTgZdIacjYXvK8mmGih&ust=1572205386225047)
+Ansible is a radically simple IT automation engine that automates **cloud provisioning, configuration management, application deployment, intra-service orchestration**, and many other IT needs.
+
+Designed for multi-tier deployments since day one, Ansible models your IT infrastructure by describing how all of your systems inter-relate, rather than just managing one system at a time.
+
+It uses no agents and no additional custom security infrastructure, so it's easy to deploy - and most importantly, it uses a very simple language (YAML, in the form of Ansible Playbooks) that allow you to describe your automation jobs in a way that approaches plain English.
+
+On this page, we'll give you a really quick overview so you can see things in context. For more detail, hop over to **docs.ansible.com**.
