@@ -4,7 +4,7 @@
 - **Flow A Static Type Checker for JavaScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
 - **Internet protocol suite(part 2).**
-- Intership. **Way to Computer Programming.**
+- Internship. **Way to Computer Programming.**
 
 # Elasticsearch, Logstash, Kibana, Filebeat.
 ### About
