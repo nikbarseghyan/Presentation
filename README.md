@@ -1,5 +1,5 @@
 # Presentation List
- - <font color='green'>**Elasticsearch, Logstash, Kibana, Filebeat.**</font>
+ - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Flow A Static Type Checker for JavaScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
