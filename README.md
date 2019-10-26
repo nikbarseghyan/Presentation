@@ -1,6 +1,4 @@
-# Presentation
-
-# List
+# Presentation List
  - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Flow A Static Type Checker for JavaScript.**
