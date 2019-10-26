@@ -51,7 +51,7 @@ The technical standards underlying the Internet protocol suite and its constitue
 # Ansible.
 ### About
 
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwividj117rlAhWCqIsKHc-6CSwQjRx6BAgBEAQ&url=https%3A%2F%2Fblog.knoldus.com%2Fansible-modules-for-installing-packages%2F&psig=AOvVaw0u9hTgZdIacjYXvK8mmGih&ust=1572205386225047)
+![alt text](https://i1.wp.com/blog.knoldus.com/wp-content/uploads/2019/08/ansible.png?fit=940%2C400&ssl=1)
 
 Ansible is a radically simple IT automation engine that automates **cloud provisioning, configuration management, application deployment, intra-service orchestration**, and many other IT needs.
 
