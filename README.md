@@ -1,10 +1,18 @@
 # Presentation List
+- **DevOps.**
  - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Flow A Static Type Checker for JavaScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
 - **Computer Network Common Network Protocols(part 2).**
 - Internship. **Way to Computer Programming.**
+
+# DevOps.
+### About
+
+**DevOps** is a set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality
+
+![alt text](https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2017/05/devops-and-user-experience-at-concur-620.jpg)
 
 # Elasticsearch, Logstash, Kibana, Filebeat.
 ### About
