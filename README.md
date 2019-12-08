@@ -68,7 +68,7 @@ The technical standards underlying the Internet protocol suite and its constitue
 ![alt text](https://abaforlawstudents.com/wp-content/uploads/2016/03/internships.jpg)
 
 
-# Web hacking and Security 
+# Web Security 
 
 ![alt text](https://assets.oxu.az/uploads/W1siZiIsIjIwMTkvMDcvMDUvMDkvMjUvMzMvMjRhZGZiYTctYTFiOS00NWQ3LWFlNjUtNTc0MmM5Y2M4Nzk2L2hhY2tlci5qcGciXV0?sha=6aa60628a72efc3e)
 
