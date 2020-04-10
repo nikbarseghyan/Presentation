@@ -3,8 +3,10 @@
 - **DevOps.**
 - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
+- **Docker.**
 - **Node.js®.**
 - **Flow A Static Type Checker for JavaScript.**
+- **TypeScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
 - **Computer Network Common Network Protocols(part 2).**
 - Internship. **Way to Computer Programming.**
