@@ -12,6 +12,8 @@ ehthumbs_vista.db
 *.msp
 *.lnk
 
+inProgress
+
 # Logs
 logs
 *.log
