@@ -1,17 +1,17 @@
-x# Presentation List
+# Presentation List
 
 - **DevOps.**
 - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Docker.**
-- **Kubernetes.**                                                 __inprogress
+- Inprogress. **Kubernetes.**
 - **Node.js®.**
-- **gRPC.**                                                       __inprogress
+- Inprogress. **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
-- **TypeScript.**                                                 __inprogress
+- **TypeScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
-- **Computer Network Common Network Protocols(part 2).**          __inprogress
-- **Web Security.**                                               __inprogress
+- Inprogress. **Computer Network Common Network Protocols(part 2).**
+- Inprogress. **Web Security.**
 - Internship. **Way to Computer Programming.**
 
 # DevOps.
@@ -30,7 +30,7 @@ This stories tries to cover a quick approach for getting started with Nginx logs
 
 ![alt test](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/114348022/original/b3914eddb4c6bdf9d04a8b9643bc31430a5f24e9/be-your-back-office-for-elk-stack-data-pipeline.png)
 
-```
+```sh
 - Elasticsearch is already setup and working(on port 9200).
 - Kibana is already setup and working(on port 5601).
 ```
@@ -52,6 +52,8 @@ On this page, we'll give you a really quick overview so you can see things in co
 # Docker.
 
 # Node.js®.
+
+# gRPC.
 
 # TypeScript.
 
