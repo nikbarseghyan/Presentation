@@ -8,7 +8,7 @@
 - **Node.js®.**
 - Inprogress. **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
-- **TypeScript.**
+- Inprogress. **TypeScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
 - Inprogress. **Computer Network Common Network Protocols(part 2).**
 - Inprogress. **Web Security.**
