@@ -1,17 +1,17 @@
-# Presentation List
+x# Presentation List
 
 - **DevOps.**
 - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Docker.**
-- **Kubernetes.** #in Progres
+- **Kubernetes.**                                                 __inprogress
 - **Node.js®.**
-- **gRPC.** #in Progres
+- **gRPC.**                                                       __inprogress
 - **Flow A Static Type Checker for JavaScript.**
-- **TypeScript.** #in Progres
+- **TypeScript.**                                                 __inprogress
 - **Computer Network | OSI and TCP/IP Model(part 1).**
-- **Computer Network Common Network Protocols(part 2).** #in Progres
-- **Web Security.** #in Progres
+- **Computer Network Common Network Protocols(part 2).**          __inprogress
+- **Web Security.**                                               __inprogress
 - Internship. **Way to Computer Programming.**
 
 # DevOps.
