@@ -4,14 +4,14 @@
 - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Docker.**
-- Inprogress. **Kubernetes.**
+- _Inprogress_. **Kubernetes.**
 - **Node.js®.**
-- Inprogress. **gRPC.**
+- _Inprogress_. **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
-- Inprogress. **TypeScript.**
+- _Inprogress_. **TypeScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
-- Inprogress. **Computer Network Common Network Protocols(part 2).**
-- Inprogress. **Web Security.**
+- _Inprogress_. **Computer Network Common Network Protocols(part 2).**
+- _Inprogress_. **Web Security.**
 - Internship. **Way to Computer Programming.**
 
 # DevOps.
