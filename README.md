@@ -4,11 +4,14 @@
 - **Elasticsearch, Logstash, Kibana, Filebeat.**
 - **Ansible.**
 - **Docker.**
+- **Kubernetes.** #in Progres
 - **Node.js®.**
+- **gRPC.** #in Progres
 - **Flow A Static Type Checker for JavaScript.**
-- **TypeScript.**
+- **TypeScript.** #in Progres
 - **Computer Network | OSI and TCP/IP Model(part 1).**
-- **Computer Network Common Network Protocols(part 2).**
+- **Computer Network Common Network Protocols(part 2).** #in Progres
+- **Web Security.** #in Progres
 - Internship. **Way to Computer Programming.**
 
 # DevOps.
@@ -46,6 +49,12 @@ It uses no agents and no additional custom security infrastructure, so it's easy
 
 On this page, we'll give you a really quick overview so you can see things in context. For more detail, hop over to **docs.ansible.com**.
 
+# Docker.
+
+# Node.js®.
+
+# TypeScript.
+
 # Flow A Static Type Checker for JavaScript
 
 ### About
@@ -77,7 +86,3 @@ The technical standards underlying the Internet protocol suite and its constitue
 # Internship
 
 ![alt text](https://abaforlawstudents.com/wp-content/uploads/2016/03/internships.jpg)
-
-# Web Security
-
-![alt text](https://assets.oxu.az/uploads/W1siZiIsIjIwMTkvMDcvMDUvMDkvMjUvMzMvMjRhZGZiYTctYTFiOS00NWQ3LWFlNjUtNTc0MmM5Y2M4Nzk2L2hhY2tlci5qcGciXV0?sha=6aa60628a72efc3e)
