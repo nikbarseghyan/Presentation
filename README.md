@@ -51,7 +51,19 @@ On this page, we'll give you a really quick overview so you can see things in co
 
 # Docker.
 
+### About
+
+![alt text](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)
+
+Docker is a set of platform as a service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines.
+
 # Node.js®.
+
+### About
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png)
+
+Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser
 
 # gRPC.
 
