@@ -8,7 +8,7 @@
 - **Node.js®.**
 - _Inprogress_. **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
-- _Inprogress_. **TypeScript.**
+- **TypeScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
 - _Inprogress_. **Computer Network Common Network Protocols(part 2).**
 - _Inprogress_. **Web Security.**
@@ -56,6 +56,16 @@ On this page, we'll give you a really quick overview so you can see things in co
 # gRPC.
 
 # TypeScript.
+
+### About
+
+![alt text](https://miro.medium.com/max/1200/1*aTCN2ctKNoZupUCMP0hQuw.png)
+
+JavaScript that scales.
+
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
+
+Any browser. Any host. Any OS. Open source.
 
 # Flow A Static Type Checker for JavaScript
 
