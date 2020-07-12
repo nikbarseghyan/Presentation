@@ -6,6 +6,9 @@
 - **Docker.**
 - _Inprogress_. **Kubernetes.**
 - **Node.js®.**
+- _Inprogress_. **Deno.**
+- _Inprogress_. **GraphQL RestFull.**
+- _Inprogress_. **Architecture.**
 - _Inprogress_. **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
 - **TypeScript.**
