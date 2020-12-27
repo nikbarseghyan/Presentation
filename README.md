@@ -1,4 +1,5 @@
-# Presentation List
+# Presentation List.
+</hr>
 
 - **DevOps.**
 - **Elasticsearch, Logstash, Kibana, Filebeat.**
@@ -9,13 +10,15 @@
 - **Deno.**
 - _Inprogress_. **GraphQL RestFull.**
 - _Inprogress_. **Architecture.**
-- _Inprogress_. **gRPC.**
+-  **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
 - **TypeScript.**
 - **Computer Network | OSI and TCP/IP Model(part 1).**
 - _Inprogress_. **Computer Network Common Network Protocols(part 2).**
-- _Inprogress_. **Web Security.**
+- **Information Systems Security.**
 - Internship. **Way to Computer Programming.**
+
+</hr>
 
 # DevOps.
 
@@ -23,7 +26,13 @@
 
 **DevOps** is a set of practices that combines software development (Dev) and information-technology operations (Ops) which aims to shorten the systems development life cycle and provide continuous delivery with high software quality
 
-![alt text](https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2017/05/devops-and-user-experience-at-concur-620.jpg)
+
+| Dev | Ops | 
+| ---  | --- |
+| [![DevOps](https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/i/edit/ne/2017/05/devops-and-user-experience-at-concur-620.jpg)]() | [![Ops](https://miro.medium.com/max/1076/1*57__j14aNQfmPZyFoS1yRg.png)]() 
+
+
+</hr>
 
 # Elasticsearch, Logstash, Kibana, Filebeat.
 
@@ -31,12 +40,18 @@
 
 This stories tries to cover a quick approach for getting started with Nginx logs analysis using ELK stack, Its will provide a developer as starting point of reference for using ELK stack. It doesn't cover the details of working of these individual components. Also I’ll try to cover certain key aspects which I found missing in the other earlier written getting started docs for same purpose.
 
-![alt test](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/114348022/original/b3914eddb4c6bdf9d04a8b9643bc31430a5f24e9/be-your-back-office-for-elk-stack-data-pipeline.png)
+| Elasticsearch | ELK Layer | 
+| ---  | --- |
+| [![Elasticsearch](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/114348022/original/b3914eddb4c6bdf9d04a8b9643bc31430a5f24e9/be-your-back-office-for-elk-stack-data-pipeline.png)]() | [![ELK](https://aasconsultants.files.wordpress.com/2019/03/elk.png)]() 
+
+
 
 ```sh
 - Elasticsearch is already setup and working(on port 9200).
 - Kibana is already setup and working(on port 5601).
 ```
+
+</hr>
 
 # Ansible.
 
@@ -52,6 +67,8 @@ It uses no agents and no additional custom security infrastructure, so it's easy
 
 On this page, we'll give you a really quick overview so you can see things in context. For more detail, hop over to **docs.ansible.com**.
 
+</hr>
+
 # Docker.
 
 ### About
@@ -60,6 +77,8 @@ On this page, we'll give you a really quick overview so you can see things in co
 
 Docker is a set of platform as a service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines.
 
+</hr>
+
 # Node.js®.
 
 ### About
@@ -67,6 +86,8 @@ Docker is a set of platform as a service (PaaS) products that uses OS-level virt
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png)
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser
+
+</hr>
 
 # Deno.land®.
 
@@ -77,19 +98,41 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
 
+</hr>
+
 # gRPC.
+| gRPC | Protobuf | 
+| ---  | --- |
+| [![gRPC](https://miro.medium.com/max/3200/1*OPLL-bqxJERyZsBuH13JFA.png)]() | [![rpc](https://www.freecodecamp.org/news/content/images/2020/05/unnamed-1.png)]() 
+
+
+</hr>
+
+# Information Systems Security.
+
+| ISS | Information Systems Security | 
+| ---  | --- |
+| [![ISS](https://scx2.b-cdn.net/gfx/news/2018/hack.jpg)]() | [![ISS](https://2.bp.blogspot.com/-fI9LeDKQSVg/W5kzBqA1lDI/AAAAAAAAMck/CYxfZVJm110i8ZmxSkvSlxmDrCBMX0ZRgCLcBGAs/s1600/parrot_2.png)]() 
+
+
+<hr />
 
 # TypeScript.
 
 ### About
 
-![alt text](https://miro.medium.com/max/1200/1*aTCN2ctKNoZupUCMP0hQuw.png)
+| TypeScript | TS | 
+| ---  | --- |
+| [![TypeScript](https://miro.medium.com/max/1200/1*aTCN2ctKNoZupUCMP0hQuw.png)]() | [![TypeScript](https://miro.medium.com/max/3200/1*N6ugtpXET1pOLysSk_DWaQ.png)]() 
+
 
 JavaScript that scales.
 
 TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
 
 Any browser. Any host. Any OS. Open source.
+
+</hr>
 
 # Flow A Static Type Checker for JavaScript
 
@@ -98,6 +141,8 @@ Any browser. Any host. Any OS. Open source.
 ![alt text](https://cdn-images-1.medium.com/max/1200/1*ulwmJZfctsdMiwO8HRFDKQ.png)
 
 Flow is a static type checker for your JavaScript code. It is developed at Facebook and is often used with React. It lets you annotate the variables, functions, and React components with a special type syntax, and catch mistakes early. You can read an introduction to Flow to learn its basics.
+
+</hr>
 
 # Computer Network | OSI and TCP/IP Model
 
@@ -118,6 +163,8 @@ The **Internet protocol suite** is the conceptual model and set of communication
 The Internet protocol suite provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received. This functionality is organized into four abstraction layers, which classify all related protocols according to the scope of networking involved.From lowest to highest, the layers are the link layer, containing communication methods for data that remains within a single network segment (link); the internet layer, providing internetworking between independent networks; the transport layer, handling host-to-host communication; and the application layer, providing process-to-process data exchange for applications.
 
 The technical standards underlying the Internet protocol suite and its constituent protocols are maintained by the Internet Engineering Task Force (IETF). The Internet protocol suite predates the OSI model, a more comprehensive reference framework for general networking systems.
+
+</hr>
 
 # Internship
 
