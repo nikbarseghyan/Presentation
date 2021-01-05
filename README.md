@@ -6,9 +6,10 @@
 - **Ansible.**
 - **Docker.**
 - _Inprogress_. **Kubernetes.**
+- _Inprogress_. **Nest.js.**
 - **Node.js®.**
 - **Deno.**
-- _Inprogress_. **GraphQL RestFull.**
+- **GraphQL RestFull.**
 - _Inprogress_. **Architecture.**
 -  **gRPC.**
 - **Flow A Static Type Checker for JavaScript.**
@@ -91,7 +92,6 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 
 # Deno.land®.
 
-### About
 
 ![alt text](https://deno.land/v1.jpg)
 
@@ -99,6 +99,16 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 
 
 </hr>
+
+# GraphQL - REST.
+
+| GraphQL | Rest | 
+| ---  | --- |
+| [![GQL](https://graphql-mesh.com/assets/images/mesh-example-318ec6b388e69b0771aaaa43d9e5ff13.png)]() | [![Rest](https://vidushipaf.files.wordpress.com/2019/03/web-service.png)]()
+
+</hr>
+
+
 
 # gRPC.
 | gRPC | Protobuf | 
@@ -119,18 +129,11 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 
 # TypeScript.
 
-### About
 
 | TypeScript | TS | 
 | ---  | --- |
 | [![TypeScript](https://miro.medium.com/max/1200/1*aTCN2ctKNoZupUCMP0hQuw.png)]() | [![TypeScript](https://miro.medium.com/max/3200/1*N6ugtpXET1pOLysSk_DWaQ.png)]() 
 
-
-JavaScript that scales.
-
-TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. 
-
-Any browser. Any host. Any OS. Open source.
 
 </hr>
 
