@@ -12,7 +12,7 @@
 | `TypeScript`                                | `Done`          | 35m           | 
 | `Flow A Static Type Checker for JavaScript` | `Done`          | 40m           | 
 | `Computer Network. OSI and TCP/IP Model`    | `Done`          | 55m `part 1`  |
-| `Computer Network Common Network Protocols` | `Inprogress`    | --- `part 2`  | 
+| `Computer Network Common Network Protocols` | `Inprogress`    | ---  `part 2` | 
 | `Information Systems Security`              | `Done`          | 75m           |
 | `Elasticsearch, Logstash, Kibana, Filebeat` | `Done`          | 50m           |
 | `Node.js®`                                  | `Done`          | 65m           | 
@@ -23,13 +23,13 @@
 
 </hr>
 
-| Ցուցակ                            | Կարգավիճակ  | Ժամանակ     | Նկարագրություն                                         |
-| --------------------------------- | ------------ | ------------- | ----------------------------------------------------   |
-| `Կարմիր մոլորակ`                  | `Կատարված` | 40m           |                                                        |        
-| `Quantum Dot`                     | `Կատարված` | 60m           |                                                        |                
-| `Scanning probe microscopy`       | `Կատարված` | 25m           |                                                        |
-| `0D ծավալային նանոկառուցվածքներ`  | `Կատարված` | 25m           |                                                        |
-| `ISECG`                           | `Կատարված` | 45m `3 parts` | The International Space Exploration Coordination Group |
+| Ցուցակ                            | Կարգավիճակ  | Ժամանակ        | Նկարագրություն                                         |
+| --------------------------------- | ------------ | ---------------- | ----------------------------------------------------   |
+| `Կարմիր մոլորակ`                  | `Կատարված` | 40m              |                                                        |        
+| `Quantum Dot`                     | `Կատարված` | 60m              |                                                        |                
+| `Scanning probe microscopy`       | `Կատարված` | 25m              |                                                        |
+| `0D ծավալային նանոկառուցվածքներ`  | `Կատարված` | 25m              |                                                        |
+| `ISECG`                           | `Կատարված` | 45m `3 parts`    | The International Space Exploration Coordination Group |
 
 
 </hr>
