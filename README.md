@@ -1,23 +1,36 @@
 # Presentation List.
 </hr>
 
-- **DevOps.**
-- **Elasticsearch, Logstash, Kibana, Filebeat.**
-- **Ansible.**
-- **Docker.**
-- _Inprogress_. **Kubernetes.**
-- _Inprogress_. **Nest.js.**
-- **Node.js®.**
-- **Deno.**
-- **GraphQL RestFull.**
-- _Inprogress_. **Architecture.**
--  **gRPC.**
-- **Flow A Static Type Checker for JavaScript.**
-- **TypeScript.**
-- **Computer Network | OSI and TCP/IP Model(part 1).**
-- _Inprogress_. **Computer Network Common Network Protocols(part 2).**
-- **Information Systems Security.**
-- Internship. **Way to Computer Programming.**
+| List                                        | Status          | Time          |
+| ------------------------------------------- | --------------- | ------------- |
+| `DevOps`                                    | `Done`          | 30m           |                   
+| `Ansible`                                   | `Done`          | 30m           |                    
+| `Docker`                                    | `Done`          | 40m           |                  
+| `Kubernetes`                                | `'Inprogress'`  | ---           |               
+| `GraphQL RestFull`                          | `Done`          | 30m           | 
+| `gRPC`                                      | `Done`          | 35m           | 
+| `TypeScript`                                | `Done`          | 35m           | 
+| `Flow A Static Type Checker for JavaScript` | `Done`          | 40m           | 
+| `Computer Network | OSI and TCP/IP Model`   | `Done`          | 55m `part 1`  |
+| `Computer Network Common Network Protocols` | `Inprogress`    | --- `part 2`  | 
+| `Information Systems Security`              | `Done`          | 75m           |
+| `Elasticsearch, Logstash, Kibana, Filebeat` | `Done`          | 50m           |
+| `Node.js®`                                  | `Done`          | 65m           | 
+| `Deno`                                      | `Done`          | 35m           | 
+| `Way to Computer Programming`               | `Done`          | 40m           | 
+| `Architecture`                              | `'Inprogress'`  | ---           | 
+| `Nest.js`                                   | `'Inprogress'`  | ---           | 
+
+</hr>
+
+| Ցուցակ                            | Կարգավիճակ  | Ժամանակ     | Նկարագրություն                                        |
+| --------------------------------- | ------------ | ------------- |                                                       |
+| `Կարմիր մոլորակ`                  | `Կատարված` | 40m           |                                                       |        
+| `Quantum Dot`                     | `Կատարված` | 60m           |                                                       |                
+| `Scanning probe microscopy`       | `Կատարված` | 25m           |                                                       |
+| `0D ծավալային նանոկառուցվածքներ`  | `Կատարված` | 25m           |                                                       |
+| `ISECG`                           | `Կատարված` | 45m `3 parts` | The International Space Exploration Coordination Group|
+
 
 </hr>
 
