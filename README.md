@@ -14,12 +14,14 @@
 | `Computer Network. OSI and TCP/IP Model`    | `Done`          | 55m `part 1`  |
 | `Computer Network Common Network Protocols` | `Inprogress`    | ---  `part 2` | 
 | `Information Systems Security`              | `Done`          | 75m           |
+| `Message broker`                            | `Inprogress`    | ---           |
 | `Elasticsearch, Logstash, Kibana, Filebeat` | `Done`          | 50m           |
 | `Node.js®`                                  | `Done`          | 65m           | 
 | `Deno`                                      | `Done`          | 35m           | 
 | `Way to Computer Programming`               | `Done`          | 40m           | 
 | `Architecture`                              | `Inprogress`    | ---           | 
-| `Nest.js`                                   | `Inprogress`    | ---           | 
+| `Nest.js`                                   | `Inprogress`    | ---           |
+| `CI/CD Pipleline`                           | `Inprogress`    | ---           | 
 
 </hr>
 
